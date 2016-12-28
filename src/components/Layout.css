@@ -1,0 +1,8 @@
+.landingContent{
+    position:absolute;
+    left:calc(50% - 200px);
+    top:calc(50% - 200px);
+    height:400px;
+    width:400px;
+    overflow:hidden;
+}
